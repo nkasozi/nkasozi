@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nkasozi
-- 👀 I’m interested in any cool project. Right now, am enjoying Golang, Rust, C#
+- 👀 Right now, am in that phase in life where am enjoying functional languages like Golang, Rust, F#, C#
 - 🌱 I’m currently learning Rust 
-- 💞️ I’m looking to collaborate on any cool or interesting project
-- 📫 How to reach me by sending me a DM on here
+- 💞️ I’m looking to collaborate on any challenging project
+- 📫 Reach me by sending me a DM on here
 
 <!---
 nkasozi/nkasozi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
