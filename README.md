@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nkasozi
-- 👀 Right now, am in that phase in life where am enjoying functional languages like Golang, Rust, F#, C#
-- 🌱 I’m currently learning Rust 
+- 👀 Right now, am in that phase in life where am enjoying functional languages like Golang and Rust
 - 💞️ I’m looking to collaborate on any challenging project
 - 📫 Reach me by sending me a DM on here
 
