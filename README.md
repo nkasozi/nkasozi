@@ -1,7 +1,21 @@
 - 👋 Hi, I’m @nkasozi
-- 👀 Right now, am in that phase of life where I enjoy working with functional languages like Golang and Rust
-- 💞️ I’m looking to collaborate on any challenging project
+- 💞️ I’m looking to collaborate on projects that interest me.
 - 📫 Reach me by sending me a DM on here
+
+## 🔭 I enjoy working with ...
+
+| Technologies  | Backend          | Frontend |
+| :---:         | :---:            |  :---:  
+| AWS           | Golang           | Svelte
+| GCP           | Rust             | Vue
+| Kubernetes    | C#               | Typescript
+| Docker        | 
+| Spinnaker
+| Terraform
+| PostgreSQL
+| MongoDB
+| Kafka
+| Bazel
 
 <!---
 nkasozi/nkasozi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
