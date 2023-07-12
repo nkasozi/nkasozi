@@ -9,7 +9,7 @@
 | AWS           | Golang           | Svelte
 | GCP           | Rust             | Vue
 | Kubernetes    | C#               | Typescript
-| Docker        | 
+| Docker        | Python
 | Spinnaker
 | Terraform
 | PostgreSQL
